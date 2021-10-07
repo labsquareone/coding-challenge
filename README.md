@@ -1,6 +1,6 @@
 # coding-challenge for labsquareone
 
-### Product Spec
+# Product Spec
 
 ## Instructions
 
